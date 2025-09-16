@@ -25,19 +25,27 @@ Olá! me chamo Paulo Willian Costa Rodrigues, tenho 21 anos e sou de Belém do P
 />
 <img 
     align="left" 
-    alt="Arduino"
-    title="Arduino" 
+    alt="Html"
+    title="Html" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" 
+    src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png" 
 />
 <img 
     align="left" 
-    alt="JAVA"
-    title="JAVA" 
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" 
+    src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" 
 />
 
 <br/>
