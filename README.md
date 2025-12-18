@@ -74,8 +74,8 @@ Olá! me chamo Paulo Willian Costa Rodrigues, tenho 21 anos e sou de Belém do P
 
 ## Projetos:
 
-- [AutoIrriga Tech](https://github.com/PauloWillian1408/AutoIrriga-Tech)
-- [ChatBot em node para o whatsapp]()
+- [AutoIrriga Tech (Sistema de irrigação automática de horta escolar)](https://github.com/PauloWillian1408/AutoIrriga-Tech)
+- [M.W Calçados (e-commerce de sapatos)](https://github.com/PauloWillian1408/Projeto-web-e-comerce)
 ---
 <div align=center>
     
