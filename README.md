@@ -1,6 +1,6 @@
 # 👨‍💻 Paulo Willian
 
-**`Desenvolvedor Júnior | Desenvolvedor Front-end | Técnico em Informática`**
+**`Desenvolvedor Júnior | Técnico em Informática`**
 
 Olá! Me chamo Paulo Willian Costa Rodrigues, sou de Belém do Pará e curso Sistemas de Informação na FACI Wyden. Sou formado como Técnico em Informática pela EETEPA Vilhena Alves.
 Desenvolvedor Full-Stack Júnior, com experiência prática em Python (Flask), PHP, HTML, CSS e JavaScript, além de banco de dados, APIs, deploy em cloud e integração de sistemas.
