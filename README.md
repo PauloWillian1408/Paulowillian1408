@@ -2,7 +2,10 @@
 
 **`Desenvolvedor Júnior | Desenvolvedor Front-end | Técnico em Informática`**
 
-Olá! me chamo Paulo Willian Costa Rodrigues, tenho 21 anos e sou de Belém do Pará. Concluí o Ensino Técnico Integrado em informática na EETEPA Vilhena Alves, atualmente curso Sistemas de Informação na FACI Wyden. Tenho experiência em manutenção de hardware, além de habilidades em diagnosticar e solucionar problemas de software. No desenvolvimento, atuo com Html, Css e JavaScript, buscando aprimorar constantemente minhas habilidades, com foco especial no desenvolvimento Front-end.
+Olá! Me chamo Paulo Willian Costa Rodrigues, sou de Belém do Pará e curso Sistemas de Informação na FACI Wyden. Sou formado como Técnico em Informática pela EETEPA Vilhena Alves.
+Desenvolvedor Full-Stack Júnior, com experiência prática em Python (Flask), PHP, HTML, CSS e JavaScript, além de banco de dados, APIs, deploy em cloud e integração de sistemas.
+Desenvolvi projetos reais, incluindo um sistema web de agendamentos integrado a IoT (ESP32 + display OLED), e-commerce completo e sistemas embarcados, aplicando conceitos de cloud, IoT e automação.
+Tenho interesse em Full-Stack, cloud e automação, sempre buscando criar soluções práticas e escaláveis.
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-willian-909040332/)
 ### 🤖 Linguagens e Tecnologias
